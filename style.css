@@ -1,0 +1,93 @@
+body{
+    background-color: lightgrey;
+}
+.topheader{
+    width: 100%;
+    background-color: lightskyblue;
+    height: 50px;
+}
+
+#fb{
+    position: relative;
+    top: 15px;
+    left: 20px;
+}
+
+#tw{
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+
+.donate{
+    position: relative;
+    float: right;
+    margin: 3px;
+    top: 10px;
+    right: 20px
+
+}
+
+button{
+    padding: 5px;
+    margin: 2px;
+    background-color: blue;
+    color: white;
+    font-weight: 400px;
+    font-size: 1em;
+    border-radius: 0.3em;
+    border: none;
+    cursor: pointer;
+}
+
+#Hp{
+    position: absolute;
+
+    left: 400px;
+    top: 6px;
+    font-weight: 400;
+    color: white;
+    font-size: 20px;
+}
+
+.navbar{
+    width: 100%;
+    background-color:white;
+    height: 90px;}
+
+   
+ .navbar ul{
+     display: inline;
+     list-style: none;
+     margin-right: 70px;
+     position: relative;
+     right: 400px;
+ }
+
+ .navbar ul li{
+     float: right;
+     font-weight: 400;
+     font-size: 25px;
+   
+
+     margin: 35px 0px 20px 70px;
+ }
+
+ #logo{
+     position: relative;
+     top: 10px;
+     left: 120px;
+ }
+
+ .slider{
+    width: 100%;
+    background-color:black;
+    height: 500px;}
+
+    .white{
+        background-color: teal;
+        width: 400px;
+        height: 200px;
+        display: inline-block;
+    
+    }
